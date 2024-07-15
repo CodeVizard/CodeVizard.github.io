@@ -1,0 +1,54 @@
+/* Reset default margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Ensures padding and border are included in element's total width and height */
+}
+
+/* General body styles */
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 22px;
+  height: 100%;
+  margin: 0;
+  overflow-x: hidden;
+  background-image: url('assets/images/wall.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Fixed background */
+
+  /* Additional body styles can be added here */
+}
+
+/* Header styles */
+header {
+  background-color: rgb(54, 54, 54);
+
+  color: white;
+  text-align: center;
+  text-shadow: 2px 2px 0px black; /* FF3.5+, Opera 9+, Saf1+, Chrome, IE10 */
+
+  padding: 0.5em 0;
+  /* Additional header styles can be added here */
+}
+
+/* Nav styles */
+nav {
+  background-color: black;
+  /* Additional nav styles can be added here */
+}
+
+
+/* Disable text selection */
+.unselectable {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  -o-user-select: none; /* Old versions of Opera */
+  user-select: none; /* Standard syntax, currently supported by Chrome, Edge, Opera, and Firefox */
+}
+
+/* Additional classes or IDs can be defined below */
