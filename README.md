@@ -48,8 +48,6 @@ Brief description of the project.
 
 ![GitHub followers](https://img.shields.io/github/followers/CodeVizard?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/CodeVizard?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/CodeVizard?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/CodeVizard?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/CodeVizard/profile.github.io?style=flat-square)
 
 ---
