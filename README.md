@@ -19,22 +19,22 @@ Hi there! 👋 I'm a passionate programmer from the UK. I enjoy playing videogam
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheAnonymousFigure&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnonymousFigure&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeVizard&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVizard&layout=compact&theme=radical)
 
 ## Projects
 
 ### [Project Name](link_to_project_repository)
-![Repo stars](https://img.shields.io/github/stars/TheAnonymousFigure/yourrepository?style=flat-square)
-![Repo forks](https://img.shields.io/github/forks/TheAnonymousFigure/yourrepository?style=flat-square)
-![Repo issues](https://img.shields.io/github/issues/TheAnonymousFigure/yourrepository?style=flat-square)
+![Repo stars](https://img.shields.io/github/stars/CodeVizard/yourrepository?style=flat-square)
+![Repo forks](https://img.shields.io/github/forks/CodeVizard/yourrepository?style=flat-square)
+![Repo issues](https://img.shields.io/github/issues/CodeVizard/yourrepository?style=flat-square)
 
 Brief description of the project.
 
 ### [Another Project Name](link_to_project_repository)
-![Repo stars](https://img.shields.io/github/stars/TheAnonymousFigure/yourrepository?style=flat-square)
-![Repo forks](https://img.shields.io/github/forks/TheAnonymousFigure/yourrepository?style=flat-square)
-![Repo issues](https://img.shields.io/github/issues/TheAnonymousFigure/yourrepository?style=flat-square)
+![Repo stars](https://img.shields.io/github/stars/CodeVizard/yourrepository?style=flat-square)
+![Repo forks](https://img.shields.io/github/forks/CodeVizard/yourrepository?style=flat-square)
+![Repo issues](https://img.shields.io/github/issues/CodeVizard/yourrepository?style=flat-square)
 
 Brief description of the project.
 
@@ -46,12 +46,12 @@ Brief description of the project.
 
 ## Other Badges
 
-![GitHub followers](https://img.shields.io/github/followers/TheAnonymousFigure?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/TheAnonymousFigure?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/TheAnonymousFigure?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/TheAnonymousFigure?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/TheAnonymousFigure/profile.github.io?style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/CodeVizard?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/CodeVizard?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/CodeVizard?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/CodeVizard?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/CodeVizard/profile.github.io?style=flat-square)
 
 ---
 
-⭐️ From [Me](https://github.com/TheAnonymousFigure)
+⭐️ From [Me](https://github.com/CodeVizard)
